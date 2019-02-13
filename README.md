@@ -1,4 +1,4 @@
-# SubwayChatbot
+# Subway Chatbot
 The chatbot can answer questions about Beijing Subway, plan a trip as well.
 
 ## Functions
