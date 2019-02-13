@@ -1,0 +1,156 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "hey", 
+        "intent": "greeting", 
+        "entities": []
+      }, 
+      {
+        "text": "hello", 
+        "intent": "greeting", 
+        "entities": []
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greeting", 
+        "entities": []
+      },
+      {
+        "text": "good morning",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "good afternoon",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "good evening",
+        "intent": "greeting",
+        "entities": []
+      },
+      {
+        "text": "What can you do",
+        "intent": "function",
+        "entities": []
+      },
+      {
+        "text": "What function do you have",
+        "intent": "function",
+        "entities": []
+      },
+      {
+        "text": "I am wondering how can you help me",
+        "intent": "function",
+        "entities": []
+      },
+      {
+        "text": "What is your function",
+        "intent": "function",
+        "entities": []
+      },
+      {
+        "text": "I want to know the timetable",
+        "intent": "time_table",
+        "entities": []
+      },
+      {
+        "text": "The schedule, please",
+        "intent": "time_table",
+        "entities": []
+      },
+      {
+        "text": "Can you tell me the timetable of subway",
+        "intent": "time_table",
+        "entities": []
+      },
+      {
+        "text": "Do you know the schedule of subway",
+        "intent": "time_table",
+        "entities": []
+      },  
+      {
+        "text": "I want to know the route of one line",
+        "intent": "line_info",
+        "entities": []
+      },
+      {
+        "text": "What station does the line have",
+        "intent": "line_info",
+        "entities": []
+      },
+      {
+        "text": "Can you tell me the route",
+        "intent": "line_info",
+        "entities": []
+      },
+      {
+        "text": "Route infomation, please",
+        "intent": "line_info",
+        "entities": []
+      },
+      {
+        "text": "Which line passes by here",
+        "intent": "station_info",
+        "entities": []
+      },
+      {
+        "text": "Which line can I take from here",
+        "intent": "station_info",
+        "entities": []
+      },
+      {
+        "text": "Can you tell me which line is the nearest",
+        "intent": "station_info",
+        "entities": []
+      },
+      {
+        "text": "I want to plan a trip",
+        "intent": "route_planning",
+        "entities": []
+      },
+      {
+        "text": "Help me with the route",
+        "intent": "route_planning",
+        "entities": []
+      },
+      {
+        "text": "Plan a trip for me",
+        "intent": "route_planning",
+        "entities": []
+      },
+      {
+        "text": "Can you tell me the best route",
+        "intent": "route_planning",
+        "entities": []
+      },  
+      {
+        "text": "Thanks",
+        "intent": "solved",
+        "entities": []
+      },
+      {
+        "text": "Thank for your help",
+        "intent": "solved",
+        "entities": []
+      },
+      {
+        "text": "My problem solved",
+        "intent": "solved",
+        "entities": []
+      },
+      {
+        "text": "Cool",
+        "intent": "solved",
+        "entities": []
+      },
+      {
+        "text": "Got you",
+        "intent": "solved",
+        "entities": []
+      }
+    ]
+  }
+}
