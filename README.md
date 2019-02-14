@@ -21,3 +21,4 @@ The chatbot can answer questions about Beijing Subway, plan a trip as well.
     8)Call Baidu Map API, realizing real-time query
     9)Deploy the chatbot on wechatt, a commonly-used Chinese social networking app
 ## Demo
+![](https://github.com/hsianglee0910/SubwayChatbot/raw/master/demo.gif)
