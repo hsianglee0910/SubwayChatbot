@@ -19,6 +19,6 @@ The chatbot can answer questions about Beijing Subway, plan a trip as well.
     6)Define the states and policy rules in order to answer contextual questions
     7)Find out the shortest path through breadth-first search
     8)Call Baidu Map API, realizing real-time query
-    9)Deploy the chatbot on wechatt, a commonly-used Chinese social networking app
+    9)Deploy the chatbot on wechat, a commonly-used Chinese social networking app
 ## Demo
 ![](https://github.com/hsianglee0910/SubwayChatbot/raw/master/demo.gif)
