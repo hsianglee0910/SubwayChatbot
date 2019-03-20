@@ -14,7 +14,7 @@ The chatbot can answer questions about Beijing Subway, plan a trip as well.
     1)Build the training data based on Rasa NLU, to understand the intent of natural language
     2)Using key word to distinguish the user's intent
     3)Recognize named entity by regular expression
-    4)Establsh the database and the query mechanism
+    4)Establish the database and the query mechanism
     5)Provide a random reply to the same question
     6)Define the states and policy rules in order to answer contextual questions
     7)Find out the shortest path through breadth-first search
